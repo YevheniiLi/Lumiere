@@ -5,9 +5,6 @@ engineering portfolio piece. Not a booking product — a demonstration of
 production-quality UI engineering: architecture, motion design, accessibility,
 and performance, all in one cohesive build.
 
-**Live demo:** _add your deployed URL here_
-**Screenshots:** _add hero / gallery / mobile screenshots here_
-
 ---
 
 ## Overview
